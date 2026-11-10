@@ -1,7 +1,7 @@
 # 🎬 CineMatch – Movie Recommendation System
 
 <blockquote>
-🚀 **Live Application:** [Explore CineMatch](https://cinematch-3neayqnzuc6xyswwccscvq.streamlit.app/)
+🚀 Live Application: [Explore CineMatch](https://cinematch-3neayqnzuc6xyswwccscvq.streamlit.app/)
 </blockquote>
 
 **Discover movies you'll love with CineMatch!**
